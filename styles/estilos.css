@@ -1,0 +1,130 @@
+#principal{
+
+    width: 1000px;
+    height: 1000px;
+    background-color: aquamarine;
+    margin: 20px;
+  
+  }
+  
+  #sombrero{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+  
+    display: inline-block;
+    position: relative;
+    left: 143px;
+    top: 0px;
+  }
+  #alasombrero{
+  
+    width: 300px;
+    height: 60px;
+    background-color: red;
+    display: inline-block;
+    position: relative;
+    right: 112px;
+    top: 0px;
+  }
+  #cara{
+    width: 300px;
+    height: 400px;
+    background-color: lightsalmon;
+    border-radius: 180px;
+    display: inline-block;
+    position: relative;
+    top: 300px;
+    left: 400px;
+    
+  }
+  #ojo1{
+    width: 100px;
+      height: 160px;
+      background-color: White;
+      border-radius: 100px;
+      display: inline-block;
+    position: relative;
+    top: 50px;
+    left: 40px;
+  }
+  #ojo2{
+    width: 100px;
+      height: 160px;
+      background-color: White;
+      border-radius: 100px;
+      display: inline-block;
+  
+    position: relative;
+    top: 50px;
+    left: 60px;
+  }
+  #pupila1{
+    width: 70px;
+    height: 110px;
+    background-color: black;
+    border-radius: 100px;
+    display: inline-block;
+    position: relative;
+    top: 50px;
+    left: 15px;
+  }
+  #pupila2{
+  
+    width: 70px;
+  
+    height: 110px;
+  
+    background-color: black;
+  
+    border-radius: 100px;
+  
+    display: inline-block;
+  
+    position: relative;
+  
+    top: 50px;
+  
+    left: 15px;
+  
+  }
+  #nariz{
+    width: 80px;
+    height: 80px;
+    background-color: red;
+    border-radius: 100px;
+    display: inline-block;
+    position: relative;
+    bottom: 95px;
+    left: 110px;
+  }
+  #boca1{
+    width: 250px;
+    height: 130px;
+    background-color: yellow;
+    border-radius: 150px;
+    display: inline-block;
+    position: relative;
+    top: 80px;
+    left: 25px;
+  }
+  #boca2{
+    width: 200px;
+    height: 100px;
+    background-color: pink;
+    border-radius: 150px;
+    display: inline-block;
+    position: relative;
+    top: 15px;
+    left: 25px;
+  }
+  #labio{
+    width: 150px;
+    height: 30px;
+    background-color: red;
+    border-radius: 150px;
+    display: inline-block;
+    position: relative;
+    top: 40px;
+    left: 25px;
+  }
